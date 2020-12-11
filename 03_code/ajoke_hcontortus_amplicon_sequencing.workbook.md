@@ -69,3 +69,6 @@ for NAME in *_1.fastq; do
 >> new.file
 ```
 
+
+
+
